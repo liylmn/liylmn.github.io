@@ -12,7 +12,7 @@ github_repo: "https://github.com/liylmn/liylmn.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "从事android原生开发和rn跨平台开发，分享一些进阶笔记，希望帮助大家和自己"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/ic_head.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
